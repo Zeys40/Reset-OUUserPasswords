@@ -1,0 +1,5 @@
+# Sorties générées par le script — NE JAMAIS committer (mots de passe en clair)
+Reset-Passwords_*.csv
+Reset-Passwords_*.csv.dpapi
+Reset-Passwords_*.log
+*.tmp
