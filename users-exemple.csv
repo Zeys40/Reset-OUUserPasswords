@@ -1,0 +1,3 @@
+Prenom,Nom,SamAccountName,OU,Department,Groups,AccountExpirationDate
+Marie,Dupont,mdupont,"OU=Utilisateurs,OU=Paris,DC=contoso,DC=local",Comptabilité,"GG_Compta;GG_VPN",
+Lucas,Martin,lmartin,"OU=Stagiaires,OU=Paris,DC=contoso,DC=local",Marketing,GG_Marketing,2026-09-30

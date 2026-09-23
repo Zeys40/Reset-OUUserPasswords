@@ -1,5 +1,7 @@
-# Sorties générées par le script — NE JAMAIS committer (mots de passe en clair)
+# Sorties générées par les scripts — NE JAMAIS committer (mots de passe / données sensibles)
 Reset-Passwords_*.csv
 Reset-Passwords_*.csv.dpapi
 Reset-Passwords_*.log
+Create-ADUsers_Log_*.txt
+Create-ADUsers_Report_*.csv
 *.tmp
